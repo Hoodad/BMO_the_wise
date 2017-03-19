@@ -7,18 +7,10 @@ With the additional feature that you can now **ask your BMO** questions!
 
 How it works
 ------------
-```flow
-st=>start: Start your BMO:>http://adventuretime.wikia.com/wiki/BMO[blank]
-e=>end: Turn off your BMO
-op1=>operation: Ask a question:>http://en.wikipedia.org/wiki/Question[blank]
-cond=>condition: Are all your questions answered?:>http://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Answer_to_the_Ultimate_Question_of_Life.2C_the_Universe.2C_and_Everything_.2842.29
-io=>inputoutput: Enjoy your BMO
+![Flow chart of the user experience](http://i.imgur.com/bZRxskf.png)
 
-st->op1->cond
-cond(yes)->io->e
-cond(no)->op1
-```
-
+License
+----------
 ![enter image description here](https://licensebuttons.net/l/by-sa/3.0/88x31.png)
 This is uploaded under Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA-4.0) license from blog.creativecommons.org
 
