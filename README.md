@@ -3,7 +3,7 @@ BMO your smart friend!
 
 This an exstension of the work initially posted here https://learn.adafruit.com/3d-printed-led-animation-bmo
 With the additional feature that you can now **ask your BMO** questions!
-![BMO animated](https://gifyu.com/images/bmo_saved.gif)
+![BMO animated](http://i.imgur.com/DiKT9Cr.gif)
 
 How it works
 ------------
